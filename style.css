@@ -1,0 +1,47 @@
+body {
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-style:ridge;
+    border-color: aliceblue;
+}
+
+.header-väns {
+    margin-left: 2%;
+}
+
+.header-rätt {
+    margin-right: 2%;
+}
+
+.header-rätt li {
+    list-style: none;
+}
+
+.header-rätt {
+    
+}
+
+.bild img{
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-top:30px ;
+    }
+.hemskheter {
+    background-color: black;
+    height: 470px;
+    width: 50%;
+}
+
+.h1{
+    
+}
